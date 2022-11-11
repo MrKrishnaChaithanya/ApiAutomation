@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- rest-api-suite -->
+<suite name="rest-api-suite">
+    
+    <!-- rest-api-test -->
+    <test name="rest-api-test">
+
+        <classes>
+            <class name="com.api_automation.runner.CucumberTestRunner"/>
+        </classes>
+
+    </test><!-- rest-api-test -->
+
+</suite><!-- rest-api-suite -->
